@@ -1,4 +1,21 @@
 /* Your CSS Code here. */
 #calculator{
-	
+	border:1px solid gray;
+	background-color:white;
+	color:black;
+	height:300px;
+	width:200px;
+}
+#input{
+	height:30px;
+	width:199px;
+	border: 1px solid gray;
+}
+#block0,#block1,#block2,#block3,#block4,#block5,#block6,#block7,#block8,#block9,#plus,#minus,#multiply,#divide,#dot,#ans,#clr{
+	height:30px;
+	width:90px;
+	border: 1px solid gray;
+	background-color:white;
+	color:black;
+	font-weight:bold;
 }
